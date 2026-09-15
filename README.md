@@ -7,6 +7,10 @@
 ![CI](https://github.com/chidou59/ref-brusher/actions/workflows/ci.yml/badge.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+<p align="center">
+  <img src="docs/assets/readme-hero.png" alt="将杂乱引用整理为规范参考文献的格式刷插图" width="100%" />
+</p>
+
 ![Ref Brusher 界面](fig/fig1.png)
 
 ## 功能
